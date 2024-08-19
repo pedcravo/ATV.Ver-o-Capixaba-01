@@ -1,0 +1,14 @@
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\bin\Debug\net8.0\Verão Capixaba 01.exe
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\bin\Debug\net8.0\Verão Capixaba 01.deps.json
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\bin\Debug\net8.0\Verão Capixaba 01.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\bin\Debug\net8.0\Verão Capixaba 01.dll
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\bin\Debug\net8.0\Verão Capixaba 01.pdb
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\Verão Capixaba 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\Verão Capixaba 01.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\Verão Capixaba 01.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\Verão Capixaba 01.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\Verão Capixaba 01.dll
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\refint\Verão Capixaba 01.dll
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\Verão Capixaba 01.pdb
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\Verão Capixaba 01.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\Verão Capixaba 01\Verão Capixaba 01\obj\Debug\net8.0\ref\Verão Capixaba 01.dll
